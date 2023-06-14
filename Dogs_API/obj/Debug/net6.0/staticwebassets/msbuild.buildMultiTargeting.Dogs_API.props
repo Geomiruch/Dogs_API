@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dogs_API.props" />
+</Project>
